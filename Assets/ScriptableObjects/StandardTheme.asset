@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e28c334f21084d49883dacf82933309, type: 3}
+  m_Name: StandardTheme
+  m_EditorClassIdentifier: 
+  Name: 0
+  Background: {fileID: 21300064, guid: ded5438c8d584d04694c8e191326d82d, type: 3}
+  Fade: {fileID: 21300006, guid: 18b2c8a43f7740b4f83a9257b494cafb, type: 3}
+  Title: {fileID: 21300000, guid: ded5438c8d584d04694c8e191326d82d, type: 3}
+  TitleBackground: {fileID: 21300268, guid: ded5438c8d584d04694c8e191326d82d, type: 3}
+  PlayButton: {fileID: 21300002, guid: ded5438c8d584d04694c8e191326d82d, type: 3}
+  ShopButton: {fileID: 21300040, guid: ded5438c8d584d04694c8e191326d82d, type: 3}
+  Star: {fileID: 21300270, guid: ded5438c8d584d04694c8e191326d82d, type: 3}
+  LevelTransitionScrollBar: {fileID: 21300042, guid: ded5438c8d584d04694c8e191326d82d,
+    type: 3}
+  TotalsLit:
+  - {fileID: 21300266, guid: ded5438c8d584d04694c8e191326d82d, type: 3}
+  TotalsDim:
+  - {fileID: 21300264, guid: ded5438c8d584d04694c8e191326d82d, type: 3}
+  ButtonsUp:
+  - {fileID: 21300004, guid: ded5438c8d584d04694c8e191326d82d, type: 3}
+  ButtonsDown:
+  - {fileID: 21300022, guid: ded5438c8d584d04694c8e191326d82d, type: 3}
+  TextColor: {r: 0, g: 0, b: 0, a: 0}
+  TextFont: {fileID: 12800000, guid: 1c931ec21e411dd4585af693856428cb, type: 3}
